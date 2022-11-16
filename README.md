@@ -1,2 +1,2 @@
 # stopwatch
-![alt text](./src/assets/common/stop.png?raw=true "Title")
+<img src="./src/assets/common/start.png" alt="start" height="500" width="240" title="Start Stopwatch">.   <img src="./src/assets/common/pause.png" alt="pause" height="500" width="240" title="pause Stopwatch">.   <img src="./src/assets/common/resume.png" alt="resume" height="500" width="240" title="resume Stopwatch">.    <img src="./src/assets/common/stop.png" alt="start" height="500" width="240" title="Start Stopwatch">
