@@ -1,2 +1,2 @@
 # stopwatch
-![alt text](./src/assets/common/stop.png "Title")
+![alt text](./src/assets/common/stop.png?raw=true "Title")
